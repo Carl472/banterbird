@@ -1,10 +1,10 @@
 [
     {
-        "username": "admin",
-        "message": "new"
+        "username": "Peter Speak",
+        "message": "Yippe"
     },
     {
-        "username": "admin",
+        "username": "Luigi",
         "message": "Wowwie Zowwie"
     },
     {
@@ -16,7 +16,7 @@
         "message": "Excited to be here!"
     },
     {
-        "username": "bob",
-        "message": "Just joined. Let\u00e2\u20ac\u2122s tweet!"
+        "username": "boy",
+        "message": "Just joined. Let's tweet!"
     }
 ]
